@@ -8,6 +8,9 @@ This is a desktop application programmed using *Python* which can be used as a p
 **Admin**: Creates accounts and manages inventory. <br>
 **Customer**: Searches, rents and loans furniture.
 
+## Presentation
+More details regarding the project about implementation, testing, motivation, etc. can be found in [this](https://github.com/kgpian143/Software-Lab-Project-FRSS-2022/blob/master/Presentation.pptx) presentation.
+
 ## Requirements
 For running this application we will need:
 ```
